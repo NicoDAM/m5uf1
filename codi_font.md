@@ -18,7 +18,7 @@ Una **llibreria** és un col·lecció de codi predefinit que facilita la tasca d
 
 El procés de transformació d'un codi font a un codi executable seria: El codi font desenvolupat pels programadors es convertirà en codi objecte amb l’ajuda del compilador. Aquest ajudarà a localitzar els errors de sintaxi o de compilació que es trobin al codi font. Amb l’enllaçador, que recollirà el codi objecte i les llibreries, es generarà el codi executable.
 
-####**1.2.1 Màquina virtual**
+#####**1.2.1 Màquina virtual**
 
 El concepte de màquina virtual sorgeix amb l’objectiu de facilitar el desenvolupament de compiladors que generen codi per a diferents processadors.
 
