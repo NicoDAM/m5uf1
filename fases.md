@@ -26,7 +26,7 @@ També és important tenir identificats els rols dels components de l’equip de
 
 #####**1.6.2 Anàlisi del sistema d’informació**.
 
->_El propòsit d’aquest procés és aconseguir l’**especificació detallada** del SI per mitjà d’un catàleg de requisits i d’una sèrie de models que cobreixin les necessitats d’informació dels usuaris per als quals es desenvoluparà el SI i que seran l’entrada per al procés de Disseny del sistema d’informació. _
+>_El propòsit d’aquest procés és aconseguir l’**especificació detallada** del SI per mitjà d’un catàleg de requisits i d’una sèrie de models que cobreixin les necessitats d’informació dels usuaris per als quals es desenvoluparà el SI i que seran l’entrada per al procés de Disseny del sistema d’informació._
 
 En primer lloc, es descriu el SI, a partir de la informació obtinguda en l’estudi de viabilitat. Es delimita el seu abast, es genera un catàleg de requisits generals i es descriu el sistema mitjançant uns models inicials d’alt nivell. 
 
@@ -36,7 +36,7 @@ Per tal d’efectuar l’anàlisi se sol elaborar els models _de casos d’ús_ 
 
 #####**1.6.3 Disseny del sistema d’informació**.
 
->_El propòsit del **disseny** és obtenir la definició de l’arquitectura del sistema i de l’entorn tecnològic que li donarà suport, juntament amb l’especificació detallada dels components del SI. A partir d’aquesta informació, es generen totes les especificacions de construcció relatives al propi sistema, així com l’especificació tècnica del pla de proves, la definició dels requisits d’implantació i el disseny dels procediments de migració i càrrega inicial. 
+>_El propòsit del **disseny** és obtenir la definició de l’arquitectura del sistema i de l’entorn tecnològic que li donarà suport, juntament amb l’especificació detallada dels components del SI. A partir d’aquesta informació, es generen totes les especificacions de construcció relatives al propi sistema, així com l’especificació tècnica del pla de proves, la definició dels requisits d’implantació i el disseny dels procediments de migració i càrrega inicial._ 
 
 En el disseny es generen les especificacions necessàries per a la construcció del SI, com per exemple:
 - Els components del sistema (mòduls o classes, segons el cas) i de les estructures de dades.
@@ -53,7 +53,7 @@ Per aconseguir aquest objectiu, es recull la informació elaborada durant la fas
 
 #####**1.6.5 Implantació i acceptació del sistema**.
 
->_Aquest procés té com a objectiu principal el **lliurament** i l’**acceptació** del sistema en la seva totalitat, que pot comprendre diversos SI desenvolupats de manera independent, i un segon objectiu, que és dur a terme les activitats oportunes per al pas a producció del sistema. _
+>_Aquest procés té com a objectiu principal el **lliurament** i l’**acceptació** del sistema en la seva totalitat, que pot comprendre diversos SI desenvolupats de manera independent, i un segon objectiu, que és dur a terme les activitats oportunes per al pas a producció del sistema._
 
 Un cop revisada l’estratègia d’implantació, s’estableix el pla d’implantació i es detalla l’equip que el portarà a terme. 
 
